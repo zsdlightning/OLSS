@@ -1,0 +1,24 @@
+epoch 0, 10 batches, diff = 13428.7
+epoch 0, 20 batches, diff = 10942.2
+epoch 0, 30 batches, diff = 8732.07
+epoch 0, 40 batches, diff = 6331.91
+epoch 0, 50 batches, diff = 6827.23
+epoch 0, 60 batches, diff = 6113.85
+epoch 0, 70 batches, diff = 5340.9
+epoch 0, 80 batches, diff = 4957.48
+epoch 0, 90 batches, diff = 5573.61
+epoch 0, 100 batches, diff = 5011.98
+epoch 0, 110 batches, diff = 5167.59
+epoch 0, 120 batches, diff = 4407.45
+epoch 0, 130 batches, diff = 5175.36
+epoch 0, 140 batches, diff = 4942.8
+epoch 0, 150 batches, diff = 5180.42
+epoch 0, 160 batches, diff = 4848.79
+epoch 0, 170 batches, diff = 5156.36
+epoch 0, 180 batches, diff = 4892.31
+epoch 0, 190 batches, diff = 4801.74
+epoch 0, 200 batches, diff = 5421.76
+epoch 0, 210 batches, diff = 4703.61
+epoch 0, 220 batches, diff = 4229.83
+epoch 0, 230 batches, diff = 4449.11
+epoch 0, rho0 = 0.8,  auc = 0.979732,f1 = 0.927536, feature # = 43002
