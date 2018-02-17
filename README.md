@@ -8,4 +8,6 @@ for the text classfication tasks, including Rcv1 and news20.
 The data is too big to be uploaded into github. The data can be downloaded from 
 http://www.cs.utah.edu/~zhe/data/olss-data.tgz
 
-To run the code, clone the project. Then download and extract the data folder in parallel to "OLSS"
+Note the "vw" folder contains the executable vw software in Linux. This can also be downloaded from  http://finance.yendor.com/ML/VW/Binaries/
+
+To run the code, clone the project. Then download and extract the data in parallel to the folder "OLSS". Follow README to run the code in OLSS folder. 
