@@ -1,0 +1,24 @@
+This fold is for chooing the appropriate parameter for OLSS, namely tau0
+
+Raw Data: ../../../data/news20/
+training file for validation: ../../../data/news20/news20.binary.shuf.vw.subtrain
+validation data: ../../../data/news20/news20.binary.shuf.vw.validation
+
+Preprocessed files:
+feature_to_id.txt: feature name (vw) to ID
+mean_std_continuous_features.txt: mean & std for continuous features
+./news20.validate.X.npz, ./news20.validate.y.npy:  numpy file for validation dataset (just for fast loading)
+feature_appearence_pos.npy, feature_appearence_neg.npy: feature count in postive/negative examples in training dataset
+
+Source Code
+
+get_feature_mapping_and_appearance.py: from data file with VW input-format, generate feature_to_id.txt, feature_appearence_pos.npy, feature_appearence_neg.npy
+sep_tune.py: OLSS, simply for tunning tau0 on news20 validation dataset
+tune.sh: the script for tunning tau0 in OLSS
+
+Running:
+    sh tune.sh
+
+Then from "logger-news20-tune.txt", you can find out the best tau0 (namely, with best performance)
+
+

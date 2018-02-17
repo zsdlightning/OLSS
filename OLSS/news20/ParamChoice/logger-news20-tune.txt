@@ -1,0 +1,424 @@
+epoch 0, 10 batches, diff = 37674.2
+epoch 0, 20 batches, diff = 10335.4
+epoch 0, 30 batches, diff = 10144.8
+epoch 0, 40 batches, diff = 9906.22
+epoch 0, 50 batches, diff = 10055
+epoch 0, 60 batches, diff = 9368.09
+epoch 0, 70 batches, diff = 9122.03
+epoch 0, 80 batches, diff = 8721.36
+epoch 0, tau0 = 100, auc = 0.985551, feature # = 986970
+epoch 0, 10 batches, diff = 604.047
+epoch 0, 20 batches, diff = 174.166
+epoch 0, 30 batches, diff = 166.747
+epoch 0, 40 batches, diff = 160.188
+epoch 0, 50 batches, diff = 157.777
+epoch 0, 60 batches, diff = 147.544
+epoch 0, 70 batches, diff = 140.94
+epoch 0, 80 batches, diff = 133.486
+epoch 0, tau0 = 1, auc = 0.925046, feature # = 987030
+epoch 0, 10 batches, diff = 1710.16
+epoch 0, 20 batches, diff = 493.66
+epoch 0, 30 batches, diff = 473.701
+epoch 0, 40 batches, diff = 455.853
+epoch 0, 50 batches, diff = 450.409
+epoch 0, 60 batches, diff = 421.379
+epoch 0, 70 batches, diff = 404.415
+epoch 0, 80 batches, diff = 382.758
+epoch 0, tau0 = 3, auc = 0.944769, feature # = 987030
+epoch 0, 10 batches, diff = 2752.4
+epoch 0, 20 batches, diff = 794.142
+epoch 0, 30 batches, diff = 763.564
+epoch 0, 40 batches, diff = 735.639
+epoch 0, 50 batches, diff = 728.715
+epoch 0, 60 batches, diff = 681.33
+epoch 0, 70 batches, diff = 654.946
+epoch 0, 80 batches, diff = 619.985
+epoch 0, tau0 = 5, auc = 0.953186, feature # = 987030
+epoch 0, 10 batches, diff = 5196.21
+epoch 0, 20 batches, diff = 1494.98
+epoch 0, 30 batches, diff = 1442.48
+epoch 0, 40 batches, diff = 1392.31
+epoch 0, 50 batches, diff = 1384.99
+epoch 0, 60 batches, diff = 1293.3
+epoch 0, 70 batches, diff = 1245.77
+epoch 0, 80 batches, diff = 1179.97
+epoch 0, tau0 = 10, auc = 0.963384, feature # = 987030
+epoch 0, 10 batches, diff = 11762.4
+epoch 0, 20 batches, diff = 3350.33
+epoch 0, 30 batches, diff = 3252.05
+epoch 0, 40 batches, diff = 3149
+epoch 0, 50 batches, diff = 3153.32
+epoch 0, 60 batches, diff = 2939.41
+epoch 0, 70 batches, diff = 2839.83
+epoch 0, 80 batches, diff = 2694.69
+epoch 0, tau0 = 25, auc = 0.974516, feature # = 987030
+epoch 0, 10 batches, diff = 21329.4
+epoch 0, 20 batches, diff = 5986.44
+epoch 0, 30 batches, diff = 5841.92
+epoch 0, 40 batches, diff = 5676.43
+epoch 0, 50 batches, diff = 5719.08
+epoch 0, 60 batches, diff = 5326.57
+epoch 0, 70 batches, diff = 5162.47
+epoch 0, 80 batches, diff = 4912.23
+epoch 0, tau0 = 50, auc = 0.980849, feature # = 987014
+epoch 0, 10 batches, diff = 29860.2
+epoch 0, 20 batches, diff = 8278.55
+epoch 0, 30 batches, diff = 8105.84
+epoch 0, 40 batches, diff = 7897.26
+epoch 0, 50 batches, diff = 7989.85
+epoch 0, 60 batches, diff = 7441.29
+epoch 0, 70 batches, diff = 7230.2
+epoch 0, 80 batches, diff = 6897.13
+epoch 0, tau0 = 75, auc = 0.983703, feature # = 986994
+epoch 0, 10 batches, diff = 44936.9
+epoch 0, 20 batches, diff = 12214.6
+epoch 0, 30 batches, diff = 12013.2
+epoch 0, 40 batches, diff = 11753.8
+epoch 0, 50 batches, diff = 11962.4
+epoch 0, 60 batches, diff = 11151.2
+epoch 0, 70 batches, diff = 10879.4
+epoch 0, 80 batches, diff = 10422.9
+epoch 0, tau0 = 125, auc = 0.986808, feature # = 986956
+epoch 0, 10 batches, diff = 121839
+epoch 0, 20 batches, diff = 30750.2
+epoch 0, 30 batches, diff = 30648.7
+epoch 0, 40 batches, diff = 30481.4
+epoch 0, 50 batches, diff = 31632.6
+epoch 0, 60 batches, diff = 29719.2
+epoch 0, 70 batches, diff = 29509
+epoch 0, 80 batches, diff = 28827.9
+epoch 0, tau0 = 500, auc = 0.991988, feature # = 986605
+epoch 0, 10 batches, diff = 185892
+epoch 0, 20 batches, diff = 45071
+epoch 0, 30 batches, diff = 45191.5
+epoch 0, 40 batches, diff = 45369
+epoch 0, 50 batches, diff = 47549.5
+epoch 0, 60 batches, diff = 44892
+epoch 0, 70 batches, diff = 45020.7
+epoch 0, 80 batches, diff = 44549.3
+epoch 0, tau0 = 1000, auc = 0.993082, feature # = 985955
+epoch 0, 10 batches, diff = 268155
+epoch 0, 20 batches, diff = 62841
+epoch 0, 30 batches, diff = 63263.6
+epoch 0, 40 batches, diff = 64006.8
+epoch 0, 50 batches, diff = 67530.8
+epoch 0, 60 batches, diff = 64027.5
+epoch 0, 70 batches, diff = 64693.3
+epoch 0, 80 batches, diff = 64772.8
+epoch 0, tau0 = 2000, auc = 0.993455, feature # = 984526
+epoch 0, 10 batches, diff = 400577
+epoch 0, 20 batches, diff = 90680.4
+epoch 0, 30 batches, diff = 91387.7
+epoch 0, 40 batches, diff = 92927.7
+epoch 0, 50 batches, diff = 98208.8
+epoch 0, 60 batches, diff = 93463.2
+epoch 0, 70 batches, diff = 94790.3
+epoch 0, 80 batches, diff = 96011.6
+epoch 0, tau0 = 5000, auc = 0.992766, feature # = 979783
+epoch 0, 10 batches, diff = 323908
+epoch 0, 20 batches, diff = 74729.5
+epoch 0, 30 batches, diff = 75299.2
+epoch 0, 40 batches, diff = 76407.8
+epoch 0, 50 batches, diff = 80746.4
+epoch 0, 60 batches, diff = 76706.8
+epoch 0, 70 batches, diff = 77690.2
+epoch 0, 80 batches, diff = 78229.8
+epoch 0, tau0 = 3000, auc = 0.993396, feature # = 983001
+epoch 0, 10 batches, diff = 64.1329
+epoch 0, 20 batches, diff = 12.9345
+epoch 0, 30 batches, diff = 12.668
+epoch 0, 40 batches, diff = 12.1478
+epoch 0, 50 batches, diff = 12.5215
+epoch 0, 60 batches, diff = 11.291
+epoch 0, 70 batches, diff = 10.3668
+epoch 0, 80 batches, diff = 10.0353
+epoch 0, tau0 = 0.1, auc = 0.808652, feature # = 153
+epoch 0, 10 batches, diff = 543.332
+epoch 0, 20 batches, diff = 116.88
+epoch 0, 30 batches, diff = 112.61
+epoch 0, 40 batches, diff = 108.067
+epoch 0, 50 batches, diff = 108.699
+epoch 0, 60 batches, diff = 100.196
+epoch 0, 70 batches, diff = 95.4029
+epoch 0, 80 batches, diff = 89.6756
+epoch 0, tau0 = 1, auc = 0.84113, feature # = 159
+epoch 0, 10 batches, diff = 2467.67
+epoch 0, 20 batches, diff = 526.637
+epoch 0, 30 batches, diff = 509.971
+epoch 0, 40 batches, diff = 492.11
+epoch 0, 50 batches, diff = 498.154
+epoch 0, 60 batches, diff = 460.553
+epoch 0, 70 batches, diff = 443.013
+epoch 0, 80 batches, diff = 416.38
+epoch 0, tau0 = 5, auc = 0.793463, feature # = 125
+epoch 0, 10 batches, diff = 4654.54
+epoch 0, 20 batches, diff = 986.87
+epoch 0, 30 batches, diff = 960.231
+epoch 0, 40 batches, diff = 929.725
+epoch 0, 50 batches, diff = 945.94
+epoch 0, 60 batches, diff = 874.92
+epoch 0, 70 batches, diff = 844.823
+epoch 0, 80 batches, diff = 795.216
+epoch 0, tau0 = 10, auc = 0.754999, feature # = 88
+epoch 0, 10 batches, diff = 33865
+epoch 0, 20 batches, diff = 6774.14
+epoch 0, 30 batches, diff = 6748.22
+epoch 0, 40 batches, diff = 6659.35
+epoch 0, 50 batches, diff = 6935.01
+epoch 0, 60 batches, diff = 6452.05
+epoch 0, 70 batches, diff = 6337.69
+epoch 0, 80 batches, diff = 6056.12
+epoch 0, tau0 = 100, auc = 0.599749, feature # = 18
+epoch 0, 10 batches, diff = 280.05
+epoch 0, 20 batches, diff = 60.3391
+epoch 0, 30 batches, diff = 58.2124
+epoch 0, 40 batches, diff = 55.7938
+epoch 0, 50 batches, diff = 56.2046
+epoch 0, 60 batches, diff = 51.6152
+epoch 0, 70 batches, diff = 48.7958
+epoch 0, 80 batches, diff = 46.008
+epoch 0, tau0 = 0.5, auc = 0.827067, feature # = 169
+epoch 0, 10 batches, diff = 1048.58
+epoch 0, 20 batches, diff = 224.95
+epoch 0, 30 batches, diff = 216.947
+epoch 0, 40 batches, diff = 208.612
+epoch 0, 50 batches, diff = 210.146
+epoch 0, 60 batches, diff = 194.08
+epoch 0, 70 batches, diff = 185.725
+epoch 0, 80 batches, diff = 174.423
+epoch 0, tau0 = 2, auc = 0.831714, feature # = 141
+epoch 0, 10 batches, diff = 1534.6
+epoch 0, 20 batches, diff = 328.563
+epoch 0, 30 batches, diff = 317.335
+epoch 0, 40 batches, diff = 305.582
+epoch 0, 50 batches, diff = 308.398
+epoch 0, 60 batches, diff = 284.992
+epoch 0, 70 batches, diff = 273.378
+epoch 0, 80 batches, diff = 256.767
+epoch 0, tau0 = 3, auc = 0.822329, feature # = 134
+epoch 0, 10 batches, diff = 395.589
+epoch 0, 20 batches, diff = 372.015
+epoch 0, 30 batches, diff = 351.33
+epoch 0, 40 batches, diff = 337.933
+epoch 0, 50 batches, diff = 315.739
+epoch 0, 60 batches, diff = 305.493
+epoch 0, 70 batches, diff = 293.178
+epoch 0, 80 batches, diff = 280.599
+epoch 0, tau0 = 5, auc = 0.873736, feature # = 216472
+epoch 0, 10 batches, diff = 6776.31
+epoch 0, 20 batches, diff = 5801.65
+epoch 0, 30 batches, diff = 5153.3
+epoch 0, 40 batches, diff = 4680.29
+epoch 0, 50 batches, diff = 4478.3
+epoch 0, 60 batches, diff = 3954.58
+epoch 0, 70 batches, diff = 3784.3
+epoch 0, 80 batches, diff = 3625.37
+epoch 0, tau0 = 100, auc = 0.939571, feature # = 123279
+epoch 0, 10 batches, diff = 14.8695
+epoch 0, 20 batches, diff = 8.14815
+epoch 0, 30 batches, diff = 8.15044
+epoch 0, 40 batches, diff = 7.91794
+epoch 0, 50 batches, diff = 7.95504
+epoch 0, 60 batches, diff = 7.34879
+epoch 0, 70 batches, diff = 6.60738
+epoch 0, 80 batches, diff = 6.71614
+epoch 0, tau0 = 0.1, auc = 0.876491, feature # = 224079
+epoch 0, 10 batches, diff = 82.342
+epoch 0, 20 batches, diff = 75.9412
+epoch 0, 30 batches, diff = 72.6593
+epoch 0, 40 batches, diff = 70.4113
+epoch 0, 50 batches, diff = 66.4198
+epoch 0, 60 batches, diff = 64.4468
+epoch 0, 70 batches, diff = 61.6813
+epoch 0, 80 batches, diff = 59.474
+epoch 0, tau0 = 1, auc = 0.876342, feature # = 232181
+epoch 0, 10 batches, diff = 239.651
+epoch 0, 20 batches, diff = 225.243
+epoch 0, 30 batches, diff = 213.529
+epoch 0, 40 batches, diff = 206.132
+epoch 0, 50 batches, diff = 192.92
+epoch 0, 60 batches, diff = 187.564
+epoch 0, 70 batches, diff = 180.367
+epoch 0, 80 batches, diff = 172.778
+epoch 0, tau0 = 3, auc = 0.871417, feature # = 224132
+epoch 0, 10 batches, diff = 395.589
+epoch 0, 20 batches, diff = 372.015
+epoch 0, 30 batches, diff = 351.33
+epoch 0, 40 batches, diff = 337.933
+epoch 0, 50 batches, diff = 315.739
+epoch 0, 60 batches, diff = 305.493
+epoch 0, 70 batches, diff = 293.178
+epoch 0, 80 batches, diff = 280.599
+epoch 0, tau0 = 5, auc = 0.873736, feature # = 216472
+epoch 0, 10 batches, diff = 779.669
+epoch 0, 20 batches, diff = 728.981
+epoch 0, 30 batches, diff = 682.935
+epoch 0, 40 batches, diff = 651.263
+epoch 0, 50 batches, diff = 608.931
+epoch 0, 60 batches, diff = 580.994
+epoch 0, 70 batches, diff = 554.612
+epoch 0, 80 batches, diff = 531.719
+epoch 0, tau0 = 10, auc = 0.882918, feature # = 200850
+epoch 0, 10 batches, diff = 1888.71
+epoch 0, 20 batches, diff = 1728.46
+epoch 0, 30 batches, diff = 1589.2
+epoch 0, 40 batches, diff = 1489.02
+epoch 0, 50 batches, diff = 1404.81
+epoch 0, 60 batches, diff = 1300.58
+epoch 0, 70 batches, diff = 1235.3
+epoch 0, 80 batches, diff = 1187.79
+epoch 0, tau0 = 25, auc = 0.903975, feature # = 172012
+epoch 0, 10 batches, diff = 3621.01
+epoch 0, 20 batches, diff = 3220.07
+epoch 0, 30 batches, diff = 2911.28
+epoch 0, 40 batches, diff = 2683.42
+epoch 0, 50 batches, diff = 2553.53
+epoch 0, 60 batches, diff = 2305.78
+epoch 0, 70 batches, diff = 2194.08
+epoch 0, 80 batches, diff = 2109.26
+epoch 0, tau0 = 50, auc = 0.921993, feature # = 147291
+epoch 0, 10 batches, diff = 5242.19
+epoch 0, 20 batches, diff = 4563.4
+epoch 0, 30 batches, diff = 4083.57
+epoch 0, 40 batches, diff = 3730.62
+epoch 0, 50 batches, diff = 3563.69
+epoch 0, 60 batches, diff = 3174.47
+epoch 0, 70 batches, diff = 3029.44
+epoch 0, 80 batches, diff = 2907.97
+epoch 0, tau0 = 75, auc = 0.932592, feature # = 132185
+epoch 0, 10 batches, diff = 6776.31
+epoch 0, 20 batches, diff = 5801.65
+epoch 0, 30 batches, diff = 5153.3
+epoch 0, 40 batches, diff = 4680.29
+epoch 0, 50 batches, diff = 4478.3
+epoch 0, 60 batches, diff = 3954.58
+epoch 0, 70 batches, diff = 3784.3
+epoch 0, 80 batches, diff = 3625.37
+epoch 0, tau0 = 100, auc = 0.939571, feature # = 123279
+epoch 0, 10 batches, diff = 9641.1
+epoch 0, 20 batches, diff = 8052.83
+epoch 0, 30 batches, diff = 7078.09
+epoch 0, 40 batches, diff = 6376.49
+epoch 0, 50 batches, diff = 6106.17
+epoch 0, 60 batches, diff = 5331.08
+epoch 0, 70 batches, diff = 5129
+epoch 0, 80 batches, diff = 4897.52
+epoch 0, tau0 = 150, auc = 0.948295, feature # = 108678
+epoch 0, 10 batches, diff = 25586.2
+epoch 0, 20 batches, diff = 19855
+epoch 0, 30 batches, diff = 16905
+epoch 0, 40 batches, diff = 14830.3
+epoch 0, 50 batches, diff = 14191.3
+epoch 0, 60 batches, diff = 12040.8
+epoch 0, 70 batches, diff = 11814.3
+epoch 0, 80 batches, diff = 11193.2
+epoch 0, tau0 = 500, auc = 0.968565, feature # = 73199
+epoch 0, 10 batches, diff = 42677.1
+epoch 0, 20 batches, diff = 32038
+epoch 0, 30 batches, diff = 26767.8
+epoch 0, 40 batches, diff = 23089.2
+epoch 0, 50 batches, diff = 22055.9
+epoch 0, 60 batches, diff = 18442.4
+epoch 0, 70 batches, diff = 18273.8
+epoch 0, 80 batches, diff = 17292.8
+epoch 0, tau0 = 1000, auc = 0.975138, feature # = 54843
+epoch 0, 10 batches, diff = 68757.9
+epoch 0, 20 batches, diff = 50726.9
+epoch 0, 30 batches, diff = 41648.8
+epoch 0, 40 batches, diff = 35285.4
+epoch 0, 50 batches, diff = 33568.8
+epoch 0, 60 batches, diff = 27709.9
+epoch 0, 70 batches, diff = 27594.8
+epoch 0, 80 batches, diff = 26128.6
+epoch 0, tau0 = 2000, auc = 0.97936, feature # = 37483
+epoch 0, 10 batches, diff = 89562.8
+epoch 0, 20 batches, diff = 66052.3
+epoch 0, 30 batches, diff = 53761.7
+epoch 0, 40 batches, diff = 45103.3
+epoch 0, 50 batches, diff = 42715.7
+epoch 0, 60 batches, diff = 35030.8
+epoch 0, 70 batches, diff = 34877.5
+epoch 0, 80 batches, diff = 33035
+epoch 0, tau0 = 3000, auc = 0.980798, feature # = 28743
+epoch 0, 10 batches, diff = 107394
+epoch 0, 20 batches, diff = 79517.5
+epoch 0, 30 batches, diff = 64445.7
+epoch 0, 40 batches, diff = 53738.2
+epoch 0, 50 batches, diff = 50657.6
+epoch 0, 60 batches, diff = 41387.6
+epoch 0, 70 batches, diff = 41119.3
+epoch 0, 80 batches, diff = 38952.5
+epoch 0, tau0 = 4000, auc = 0.981119, feature # = 22111
+epoch 0, 10 batches, diff = 123238
+epoch 0, 20 batches, diff = 91738.9
+epoch 0, 30 batches, diff = 74194.2
+epoch 0, 40 batches, diff = 61654.9
+epoch 0, 50 batches, diff = 57840.3
+epoch 0, 60 batches, diff = 47141.7
+epoch 0, 70 batches, diff = 46697.9
+epoch 0, 80 batches, diff = 44237.4
+epoch 0, tau0 = 5000, auc = 0.981586, feature # = 17530
+epoch 0, 10 batches, diff = 185833
+epoch 0, 20 batches, diff = 142066
+epoch 0, 30 batches, diff = 115316
+epoch 0, 40 batches, diff = 95370.4
+epoch 0, 50 batches, diff = 87984.5
+epoch 0, 60 batches, diff = 71359.5
+epoch 0, 70 batches, diff = 69504.7
+epoch 0, 80 batches, diff = 65724.9
+epoch 0, tau0 = 10000, auc = 0.980261, feature # = 7867
+epoch 0, 10 batches, diff = 137627
+epoch 0, 20 batches, diff = 103047
+epoch 0, 30 batches, diff = 83280.4
+epoch 0, 40 batches, diff = 69036.9
+epoch 0, 50 batches, diff = 64508.6
+epoch 0, 60 batches, diff = 52474.8
+epoch 0, 70 batches, diff = 51816.4
+epoch 0, 80 batches, diff = 49075.1
+epoch 0, tau0 = 6000, auc = 0.981458, feature # = 14635
+epoch 0, 10 batches, diff = 150892
+epoch 0, 20 batches, diff = 113621
+epoch 0, 30 batches, diff = 91865.2
+epoch 0, 40 batches, diff = 76015.8
+epoch 0, 50 batches, diff = 70789.5
+epoch 0, 60 batches, diff = 57506.3
+epoch 0, 70 batches, diff = 56590.9
+epoch 0, 80 batches, diff = 53584.7
+epoch 0, tau0 = 7000, auc = 0.981418, feature # = 12387
+epoch 0, 10 batches, diff = 163251
+epoch 0, 20 batches, diff = 123590
+epoch 0, 30 batches, diff = 100026
+epoch 0, 40 batches, diff = 82700.1
+epoch 0, 50 batches, diff = 76755.3
+epoch 0, 60 batches, diff = 62305.8
+epoch 0, 70 batches, diff = 61099.3
+epoch 0, 80 batches, diff = 57828.9
+epoch 0, tau0 = 8000, auc = 0.981168, feature # = 10122
+epoch 0, 10 batches, diff = 174859
+epoch 0, 20 batches, diff = 133048
+epoch 0, 30 batches, diff = 107826
+epoch 0, 40 batches, diff = 89140.2
+epoch 0, 50 batches, diff = 82471.5
+epoch 0, 60 batches, diff = 66914.1
+epoch 0, 70 batches, diff = 65389.2
+epoch 0, 80 batches, diff = 61863.1
+epoch 0, tau0 = 9000, auc = 0.980562, feature # = 8973
+epoch 0, 10 batches, diff = 82.342
+epoch 0, 20 batches, diff = 75.9412
+epoch 0, 30 batches, diff = 72.6593
+epoch 0, 40 batches, diff = 70.4113
+epoch 0, 50 batches, diff = 66.4198
+epoch 0, 60 batches, diff = 64.4468
+epoch 0, 70 batches, diff = 61.6813
+epoch 0, 80 batches, diff = 59.474
+epoch 0, tau0 = 1, auc = 0.876342, feature # = 232181
+epoch 0, 10 batches, diff = 239.651
+epoch 0, 20 batches, diff = 225.243
+epoch 0, 30 batches, diff = 213.529
+epoch 0, 40 batches, diff = 206.132
+epoch 0, 50 batches, diff = 192.92
+epoch 0, 60 batches, diff = 187.564
+epoch 0, 70 batches, diff = 180.367
+epoch 0, 80 batches, diff = 172.778
+epoch 0, tau0 = 3, auc = 0.871417, feature # = 224132
+epoch 0, 10 batches, diff = 395.589

@@ -1,0 +1,25 @@
+This fold is for testing OLSS on Rcv1 dataset
+there is a subfolder "ftrl" --- it contains the scripts for tuning ftrl (implemented in Vowpal Wabbit software)
+
+Raw Data: ../../data/rcv1/
+training file: ../../data/rcv1/rcv1.train.vw
+test file: ../../data/rcv1/rcv1.test.vw
+
+Preprocessed files:
+feature_to_id.txt: feature name (vw) to ID
+mean_std_continuous_features.txt: mean & std for continuous features
+feature_appearence_pos.npy, feature_appearence_neg.npy: feature count in postive/negative examples in training data
+
+Source Code
+get_feature_mapping_and_appearance.py: from data file with VW input-format, generate feature_to_id.txt, feature_appearence_pos.npy, feature_appearence_neg.npy
+olss.py, OLSS algorithm for testing Rcv1
+
+Running:
+    Step 1: first go to ParamChoice folder, to find out the best parameter tau0
+    Step 2: go back, and edit line 847 in olss.py, set tau0 with the best value
+    Step 3: test OLSS with different sparsity levels rhp0
+        python olss.py <rho0>
+
+    Then from "logger-rcv1.txt", you can find out the results. 
+
+

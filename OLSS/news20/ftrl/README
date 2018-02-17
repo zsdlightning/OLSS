@@ -1,0 +1,5 @@
+This folder is to test FTRL on Rcv1 dataset
+We use the FTRL implemented in Vowpal Wabbit software
+
+The command for choosing parameters and testing are in "run.sh"
+

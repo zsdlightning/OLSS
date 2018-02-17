@@ -1,0 +1,30 @@
+best.L1.0,L1=0,auc=0.987362162085,feature no.=1103457
+best.L1.0.001,L1=0.001,auc=0.987413247269,feature no.=1069366
+best.L1.0.01,L1=0.01,auc=0.98764955628,feature no.=815174
+best.L1.0.1,L1=0.1,auc=0.983534116255,feature no.=105966
+best.L1.0.5,L1=0.5,auc=0.966597776401,feature no.=9984
+best.L1.1,L1=1,auc=0.950959784911,feature no.=4265
+best.L1.2,L1=2,auc=0.923665303488,feature no.=1793
+best.L1.3,L1=3,auc=0.903375657702,feature no.=1130
+best.L1.4,L1=4,auc=0.886617315283,feature no.=751
+best.L1.5,L1=5,auc=0.872847135835,feature no.=574
+best.L1.6,L1=6,auc=0.858579816676,feature no.=443
+best.L1.7,L1=7,auc=0.844921215917,feature no.=341
+best.L1.8,L1=8,auc=0.833819196403,feature no.=249
+best.L1.9,L1=9,auc=0.825720693439,feature no.=196
+best.L1.10,L1=10,auc=0.818213193205,feature no.=181
+best.L1.0,L1=0,auc=auc = 0.987362162085 , f1 = 0.944098129901,feature no.=1103457
+best.L1.0.001,L1=0.001,auc=auc = 0.987413247269 , f1 = 0.943874471937,feature no.=1069366
+best.L1.0.01,L1=0.01,auc=auc = 0.98764955628 , f1 = 0.946340481224,feature no.=815174
+best.L1.0.1,L1=0.1,auc=auc = 0.983534116255 , f1 = 0.935902636917,feature no.=105966
+best.L1.0.5,L1=0.5,auc=auc = 0.966597776401 , f1 = 0.899016796395,feature no.=9984
+best.L1.1,L1=1,auc=auc = 0.950959784911 , f1 = 0.87556561086,feature no.=4265
+best.L1.2,L1=2,auc=auc = 0.923665303488 , f1 = 0.841362381098,feature no.=1793
+best.L1.3,L1=3,auc=auc = 0.903375657702 , f1 = 0.820465307803,feature no.=1130
+best.L1.4,L1=4,auc=auc = 0.886617315283 , f1 = 0.804354523981,feature no.=751
+best.L1.5,L1=5,auc=auc = 0.872847135835 , f1 = 0.78983502408,feature no.=574
+best.L1.6,L1=6,auc=auc = 0.858579816676 , f1 = 0.776803913575,feature no.=443
+best.L1.7,L1=7,auc=auc = 0.844921215917 , f1 = 0.765052888527,feature no.=341
+best.L1.8,L1=8,auc=auc = 0.833819196403 , f1 = 0.755139426013,feature no.=249
+best.L1.9,L1=9,auc=auc = 0.825720693439 , f1 = 0.748447521124,feature no.=196
+best.L1.10,L1=10,auc=auc = 0.818213193205 , f1 = 0.74042292369,feature no.=181
