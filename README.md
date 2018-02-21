@@ -1,3 +1,6 @@
+MIT License
+
+
 This poject is the source code for the paper, 
 "Online Bayesian Feature Selection with Non-Uniform Shrinkage for CTR Prediction and Text Classification"
 by Shandian Zhe (http://www.cs.utah.edu/~zhe/), et. al. 
